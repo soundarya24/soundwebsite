@@ -20,4 +20,6 @@ This is a collection of my dataviz works; Click on the images to know the underl
 
 [![](maldives.jpeg){fig-align="left" width="907"}](https://twitter.com/SoundaryaRak/status/1528987670512553984?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
 
-[![](afd.jpeg){fig-align="right"}](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
+[![](afd.jpeg){fig-align="right" width="907"}](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
+
+[![](acwri.png){fig-align="left" width="907"}](https://twitter.com/SoundaryaRak/status/1459124741537611783?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
