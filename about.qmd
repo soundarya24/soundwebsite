@@ -1,0 +1,21 @@
+---
+title: "Soundarya Soundararajan"
+about:
+  template: jolla
+  image-shape: round
+  image: hello.png  
+  links:
+    - icon: twitter 
+      href: https://twitter.com/SoundaryaRak
+    - icon: github
+      href: https://github.com/soundarya24
+    - icon: vector-pen
+      href: https://ss-myrspace.netlify.app/
+    - icon: newspaper
+      href: https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece
+---
+
+![How to say my name](howtosaymyname.m4a)
+
+I am a Double Doc (Medicine & Ph.D.) living in Ahmedabad, India.\
+I currently serve as a Medical Scientist at the National Institute of Occupational Health under Indian Council of Medical Research - an apex body for medical research in India.

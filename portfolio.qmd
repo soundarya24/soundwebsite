@@ -1,0 +1,19 @@
+---
+title: "My Portfolio"
+---
+
+This is a collection of my dataviz works; Click on the images to know the underlying codes.
+
+::: {#portfolio layout-ncol="3"}
+[![](windTurbines.png){fig-align="left" width="9.45in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w44_CanadianWindTurbines/RaincloudPlots_windTurbines.R)
+
+[![](Himalayas.png){fig-align="right" width="9.45in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w39_HimalayanClimbers/Himalayas.R)
+
+[![](Heatmap_friends_views.png){fig-align="left" width="8in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w37_friends/Heatmap_friends_views.R)
+
+[![](DuboisChallenge_areachart.png){fig-align="right" width="907"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/2021_w8_DuboisChallenge/Dubois_challenge.R)
+
+[![](trainlines_twitter.png){fig-align="left" width="907"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/2021_w2_traintransits/traintransit_dumbbell_twitter.R)
+
+[![](ThesisTimeline.png){fig-align="right" width="907"}](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/thesistimeline_github.Rmd)
+:::

@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: "#84A98C"
+    foreground: "#200119"
+    search: true
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Timeline"
+        file: timeline.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+
+      
+format:
+  html:
+    monobackgroundcolor: "#a984a1"
+    backgroundcolor: "#EADDCA"
+    linkcolor: "#84A98C"
+    fontcolor: "#152235"
+    css: styles.css
+twitter-card:
+    creator: "@soundarya24"
+editor: visual
+

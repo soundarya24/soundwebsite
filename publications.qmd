@@ -1,0 +1,174 @@
+---
+title: "Publications"
+bibliography: references.bib
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| echo: false
+#| warning: false
+library(fontawesome)
+library(ggtext)
+library(showtext)
+font_add('fa-solid', 'Font Awesome 6 Free-Solid-900.otf')
+font_add('fa-brands', 'Font Awesome 6 Brands-Regular-400.otf')
+font_add('fa-reg', 'Font Awesome 6 Free-Regular-400.otf')
+fa_path <- systemfonts::font_info(family = "Font Awesome 6 Brands Regular")[["path"]]
+font_add(family = "fa-brands", regular = fa_path)
+
+showtext_auto()
+sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
+group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
+absnos <- c(7,6,6,4,2,10,10,10,10,10)
+percent <- c(70,60,60,40,20,100,100,100,100,100)
+
+library(tidyverse)
+df <- data.frame(group,sub,absnos,percent)
+
+df %>% 
+    ggplot()+
+    geom_segment(data = . %>% filter(group=="nos"),
+         aes(x=reorder(sub,percent),xend=sub,
+             y=0,yend=percent),
+         size=4,color="#a984a1")+
+  geom_bar(data = . %>% filter(group=="papers"), inherit.aes = TRUE,
+         aes(x=sub, y=percent),fill="#84A98C",
+         stat = "identity", alpha=0.3,width = 0.3)+
+    geom_text(data = . %>% filter(group=="nos"),color="#2A3F3D",
+        aes(x=sub,y=percent+5,
+           fontface="bold",
+           label=str_glue("{percent}%")
+        ))+
+  annotate("text",y=60,x=4.7, label="In 70% of my papers, I have contributed to Data Visualization")+
+  geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1c0;</span>",x=2, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
+  geom_richtext(label="<span style='font-family:fa-solid;'>&#xf492;</span>",x=1, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
+  geom_richtext(label="<span style='font-family:fa-solid;'>&#xe522;</span>",x=3, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
+  geom_richtext(label="<span style='font-family:fa-solid;'>&#xf5a1;</span>",x=4, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
+  geom_richtext(label="<span style='font-family:fa-solid;'>&#xf53f;</span>",x=5, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
+  
+ylim(0,110)+
+  labs(x="", y="",
+       title = "Contributions in my publications",
+       caption = "DataViz by Soundarya | Total Number of Publications =10")+
+    coord_flip()+
+    theme_classic()+
+    theme(legend.position = "none",
+          axis.text.x = element_blank(),
+          axis.ticks.x = element_blank(),
+          axis.line.x = element_blank(),
+           axis.ticks.y = element_blank(),
+          axis.line.y = element_blank(),
+          panel.background = element_rect(color="#EADDCA", fill="#EADDCA"),
+          plot.background = element_rect(color="#EADDCA", fill="#EADDCA"))
+
+```
+
+## List of Publications
+
+1.  Services for Enhanced Recovery with Intensive and Continued Engagement (SERWICE): An Outpatient Psychiatric Rehabilitation Model from India [@sivakumar2014servicesenhancedrecovery].
+
+
+::: column-margin
+`r fa("database", fill = "#a984a1")`
+:::
+
+2.  Vitamin B12 Deficiency: An Important Reversible Co-Morbidity in Neuropsychiatric Manifestations. [@issac2015vitaminb12deficiency]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+This is one of my most-cited papers.
+
+I also visualized how this paper boosted my citation count. View it [here](https://ss-myrspace.netlify.app/posts/2022-04-06-my-scholar-profile-visualization/)
+
+3.  Manganese- and 1-Methyl-4-Phenylpyridinium-Induced Neurotoxicity Display Differences in Morphological, Electrophysiological and Genome-Wide Alterations: Implications for Idiopathic Parkinson's Disease [@mythri2017manganese1methyl4phenylpyridiniuminducedneurotoxicity]
+
+::: column-margin
+`r fa("vial", fill = "#a984a1")`
+:::
+
+4.  Personality Profile and Short-Term Treatment Outcome in Patients with Alcohol Dependence: A Study from South India [@soundararajan2017personalityprofileshortterm]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+5.  Relation Between Age at First Alcohol Drink & Adult Life Drinking Patterns in Alcohol-Dependent Patients [@soundararajan2017relationagefirst]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+This was another exciting work. I also happened to redo the visualization pertaining to this paper. New data viz can be visualized [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
+
+6.  Docosahexaenoic Acid Supplementation in Age-Related Cognitive Decline: A Systematic Review and Meta-Analysis [@balachandar2020docosahexaenoicacidsupplementation]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+7.  Changes in DNA Methylation Persist over Time in Males with Severe Alcohol Use Disorder-a Longitudinal Follow-up Study. [@soundararajan2021changesdnamethylation]
+
+```{r}
+#| column: margin
+#| layout-ncol: 2
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("vial", fill = "#a984a1")
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+I made a timeline for publishing this work [here](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/ThesisTimeline.png)
+
+This publication gathered media attention as well. The write-up in a daily can be accessed [here](https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece)
+
+8.  FAAH and CNR1 Polymorphisms in the Endocannabinoid System and Alcohol-Related Sleep Quality [@soundararajan2021faahcnr1polymorphisms]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+9.  The Motivation for Alcohol Reward: Predictors of Progressive-Ratio Intravenous Alcohol Self-Administration in Humans [@au-stangl///motivationalcoholrewarda]
+
+::: column-margin
+`r fa("palette", fill = "#a984a1")`
+:::
+
+10. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+```
