@@ -85,7 +85,7 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-This is one of my most-cited papers.
+This is my most-cited paper.
 
 I also visualized how this paper boosted my citation count. View it [here](https://ss-myrspace.netlify.app/posts/2022-04-06-my-scholar-profile-visualization/)
 
@@ -117,7 +117,7 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-This was another exciting work. I also happened to redo the visualization pertaining to this paper. New data viz can be visualized [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
+I created graphs for this publication with excle back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
 
 6.  Docosahexaenoic Acid Supplementation in Age-Related Cognitive Decline: A Systematic Review and Meta-Analysis [@balachandar2020docosahexaenoicacidsupplementation]
 
@@ -142,9 +142,9 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-I made a timeline for publishing this work [here](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/ThesisTimeline.png)
+This is my PhD publication which had a very long incubation. However, this inspired me to visualize and I created a timeline for publishing this work [here](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/ThesisTimeline.png)
 
-This publication gathered media attention as well. The write-up in a daily can be accessed [here](https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece)
+This publication gathered media attention as well. The write-up in "The Hindu" - one of the eminent dailies in India can be accessed [here](https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece)
 
 8.  FAAH and CNR1 Polymorphisms in the Endocannabinoid System and Alcohol-Related Sleep Quality [@soundararajan2021faahcnr1polymorphisms]
 
