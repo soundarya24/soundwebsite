@@ -54,6 +54,7 @@ ylim(0,110)+
     coord_flip()+
     theme_classic()+
     theme(legend.position = "none",
+          axis.text.y  = element_text(face = "bold",color="#2A3F3D"),
           axis.text.x = element_blank(),
           axis.ticks.x = element_blank(),
           axis.line.x = element_blank(),
