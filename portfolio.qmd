@@ -11,15 +11,19 @@ This is a collection of my dataviz works; Click on the images to know the underl
 
 [![](Heatmap_friends_views.png){fig-align="left" width="8in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w37_friends/Heatmap_friends_views.R)
 
-[![](DuboisChallenge_areachart.png){fig-align="right" width="907"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/2021_w8_DuboisChallenge/Dubois_challenge.R)
+[![](DuboisChallenge_areachart.png){fig-align="right" width="7.78in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/2021_w8_DuboisChallenge/Dubois_challenge.R)
 
-[![](trainlines_twitter.png){fig-align="left" width="907"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/2021_w2_traintransits/traintransit_dumbbell_twitter.R)
+[![](trainlines_twitter.png){fig-align="left" width="9.45in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/2021_w2_traintransits/traintransit_dumbbell_twitter.R)
 
-[![](ThesisTimeline.png){fig-align="right" width="907"}](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/thesistimeline_github.Rmd)
+[![](ThesisTimeline.png){fig-align="right" width="9.45in"}](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/thesistimeline_github.Rmd)
+
+[![](maldives.jpeg){fig-align="left" width="9.45in"}](https://twitter.com/SoundaryaRak/status/1528987670512553984?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
+
+[![](afd.jpeg){fig-align="center" width="7.5in"}](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
+
+[![](acwri.png){fig-align="right" width="7.45in"}](https://twitter.com/SoundaryaRak/status/1459124741537611783?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
+
+[![](wordcloud.jpeg){fig-align="left" width="9.45in"}](https://twitter.com/SoundaryaRak/status/1369508582232748035/photo/2)
 :::
 
-[![](maldives.jpeg){fig-align="left" width="907"}](https://twitter.com/SoundaryaRak/status/1528987670512553984?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
 
-[![](afd.jpeg){fig-align="right" width="907"}](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
-
-[![](acwri.png){fig-align="left" width="907"}](https://twitter.com/SoundaryaRak/status/1459124741537611783?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
