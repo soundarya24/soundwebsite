@@ -43,7 +43,7 @@ df %>%
   annotate("text",y=60,x=4.7, label="In 70% of my papers, I have contributed to Data Visualization")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1c0;</span>",x=2, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf492;</span>",x=1, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
-  geom_richtext(label="<span style='font-family:fa-solid;'>&#xe522;</span>",x=3, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
+  geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1ec;</span>",x=3, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf5a1;</span>",x=4, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf53f;</span>",x=5, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
   
