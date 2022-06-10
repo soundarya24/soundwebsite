@@ -17,3 +17,5 @@ This is a collection of my dataviz works; Click on the images to know the underl
 
 [![](ThesisTimeline.png){fig-align="right" width="907"}](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/thesistimeline_github.Rmd)
 :::
+
+[![](maldives.jpeg)](https://twitter.com/SoundaryaRak/status/1528987670512553984?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
