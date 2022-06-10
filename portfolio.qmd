@@ -26,4 +26,6 @@ This is a collection of my dataviz works; Click on the images to know the underl
 [![](wordcloud.jpeg){fig-align="left" width="9.45in"}](https://twitter.com/SoundaryaRak/status/1369508582232748035/photo/2)
 
 [![](calendar.jpeg){width="9.45in"}](https://github.com/soundarya24/MyRSpace/blob/main/MyCalendar2021/my2021_calendar_github.R)
+
+[![](sankey.jpeg){width="9.45in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w51_ninjawarrior/ninjawarrior_alluvial.R)
 :::
