@@ -11,6 +11,8 @@ website:
         file: index.qmd
       - text: "Timeline"
         file: timeline.qmd
+      - text: "People"
+        file: people.qmd
       - text: "Projects"
         file: projects.qmd
       - text: "Publications"
