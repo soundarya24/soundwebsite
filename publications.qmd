@@ -118,7 +118,7 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-I created graphs for this publication with excle back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
+I created graphs for this publication with excel back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
 
 6.  Docosahexaenoic Acid Supplementation in Age-Related Cognitive Decline: A Systematic Review and Meta-Analysis [@balachandar2020docosahexaenoicacidsupplementation]
 
