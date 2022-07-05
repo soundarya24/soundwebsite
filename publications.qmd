@@ -67,36 +67,23 @@ ylim(0,110)+
 
 ## List of Publications
 
-1.  Services for Enhanced Recovery with Intensive and Continued Engagement (SERWICE): An Outpatient Psychiatric Rehabilitation Model from India [@sivakumar2014servicesenhancedrecovery].
+10. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
 
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+```
+
+9.  The Motivation for Alcohol Reward: Predictors of Progressive-Ratio Intravenous Alcohol Self-Administration in Humans [@au-stangl///motivationalcoholrewarda]
 
 ::: column-margin
-`r fa("database", fill = "#a984a1")`
+`r fa("palette", fill = "#a984a1")`
 :::
 
-2.  Vitamin B12 Deficiency: An Important Reversible Co-Morbidity in Neuropsychiatric Manifestations. [@issac2015vitaminb12deficiency]
-
-```{r}
-#| column: margin
-#| layout-nrow: 1
-#| echo: false
-fa("database", fill = "#a984a1")
-fa("calculator", fill = "#a984a1")
-fa("palette", fill = "#a984a1")
-fa("marker", fill = "#a984a1")
-```
-
-This is my most-cited paper.
-
-I also visualized how this paper boosted my citation count. View it [here](https://ss-myrspace.netlify.app/posts/2022-04-06-my-scholar-profile-visualization/)
-
-3.  Manganese- and 1-Methyl-4-Phenylpyridinium-Induced Neurotoxicity Display Differences in Morphological, Electrophysiological and Genome-Wide Alterations: Implications for Idiopathic Parkinson's Disease [@mythri2017manganese1methyl4phenylpyridiniuminducedneurotoxicity]
-
-::: column-margin
-`r fa("vial", fill = "#a984a1")`
-:::
-
-4.  Personality Profile and Short-Term Treatment Outcome in Patients with Alcohol Dependence: A Study from South India [@soundararajan2017personalityprofileshortterm]
+8.  FAAH and CNR1 Polymorphisms in the Endocannabinoid System and Alcohol-Related Sleep Quality [@soundararajan2021faahcnr1polymorphisms]
 
 ```{r}
 #| column: margin
@@ -104,29 +91,6 @@ I also visualized how this paper boosted my citation count. View it [here](https
 #| echo: false
 fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
-fa("marker", fill = "#a984a1")
-```
-
-5.  Relation Between Age at First Alcohol Drink & Adult Life Drinking Patterns in Alcohol-Dependent Patients [@soundararajan2017relationagefirst]
-
-```{r}
-#| column: margin
-#| layout-nrow: 1
-#| echo: false
-fa("calculator", fill = "#a984a1")
-fa("palette", fill = "#a984a1")
-fa("marker", fill = "#a984a1")
-```
-
-I created graphs for this publication with excel back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
-
-6.  Docosahexaenoic Acid Supplementation in Age-Related Cognitive Decline: A Systematic Review and Meta-Analysis [@balachandar2020docosahexaenoicacidsupplementation]
-
-```{r}
-#| column: margin
-#| layout-nrow: 1
-#| echo: false
-fa("database", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
@@ -147,7 +111,17 @@ This is my PhD publication which had a very long incubation. However, this inspi
 
 This publication gathered media attention as well. The write-up in "The Hindu" - one of the eminent dailies in India can be accessed [here](https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece)
 
-8.  FAAH and CNR1 Polymorphisms in the Endocannabinoid System and Alcohol-Related Sleep Quality [@soundararajan2021faahcnr1polymorphisms]
+6.  Docosahexaenoic Acid Supplementation in Age-Related Cognitive Decline: A Systematic Review and Meta-Analysis [@balachandar2020docosahexaenoicacidsupplementation]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+5.  Relation Between Age at First Alcohol Drink & Adult Life Drinking Patterns in Alcohol-Dependent Patients [@soundararajan2017relationagefirst]
 
 ```{r}
 #| column: margin
@@ -158,13 +132,9 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-9.  The Motivation for Alcohol Reward: Predictors of Progressive-Ratio Intravenous Alcohol Self-Administration in Humans [@au-stangl///motivationalcoholrewarda]
+I created graphs for this publication with excel back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
 
-::: column-margin
-`r fa("palette", fill = "#a984a1")`
-:::
-
-10. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
+4.  Personality Profile and Short-Term Treatment Outcome in Patients with Alcohol Dependence: A Study from South India [@soundararajan2017personalityprofileshortterm]
 
 ```{r}
 #| column: margin
@@ -172,4 +142,33 @@ fa("marker", fill = "#a984a1")
 #| echo: false
 fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
 ```
+
+3.  Manganese- and 1-Methyl-4-Phenylpyridinium-Induced Neurotoxicity Display Differences in Morphological, Electrophysiological and Genome-Wide Alterations: Implications for Idiopathic Parkinson's Disease [@mythri2017manganese1methyl4phenylpyridiniuminducedneurotoxicity]
+
+::: column-margin
+`r fa("vial", fill = "#a984a1")`
+:::
+
+2.  Vitamin B12 Deficiency: An Important Reversible Co-Morbidity in Neuropsychiatric Manifestations. [@issac2015vitaminb12deficiency]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+This is my most-cited paper.
+
+I also visualized how this paper boosted my citation count. View it [here](https://ss-myrspace.netlify.app/posts/2022-04-06-my-scholar-profile-visualization/)
+
+1.  Services for Enhanced Recovery with Intensive and Continued Engagement (SERWICE): An Outpatient Psychiatric Rehabilitation Model from India [@sivakumar2014servicesenhancedrecovery].
+
+::: column-margin
+`r fa("database", fill = "#a984a1")`
+:::
