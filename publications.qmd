@@ -20,8 +20,8 @@ font_add(family = "fa-brands", regular = fa_path)
 showtext_auto()
 sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
 group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
-absnos <- c(7,6,6,4,2,10,10,10,10,10)
-percent <- c(70,60,60,40,20,100,100,100,100,100)
+absnos <- c(7,6,6,5,2,11,11,11,11,11)
+percent <- c(64,55,55,45,18,100,100,100,100,100)
 
 library(tidyverse)
 df <- data.frame(group,sub,absnos,percent)
@@ -40,7 +40,7 @@ df %>%
            fontface="bold",
            label=str_glue("{percent}%")
         ))+
-  annotate("text",y=60,x=4.7, label="In 70% of my papers, I have contributed to Data Visualization")+
+  annotate("text",y=60,x=4.7, label="In 64% of my papers, I have contributed to Data Visualization")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1c0;</span>",x=2, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf492;</span>",x=1, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1ec;</span>",x=3, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
@@ -67,7 +67,15 @@ ylim(0,110)+
 
 ## List of Publications
 
-10. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
+11. Modeling Ability to Resist Alcohol in the Human Laboratory: A Pilot Study [@sloan2022]  
+
+
+::: column-margin
+`r fa("database", fill = "#a984a1")`
+:::
+
+
+12. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
 
 ```{r}
 #| column: margin

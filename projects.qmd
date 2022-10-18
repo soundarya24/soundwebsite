@@ -18,4 +18,8 @@ Sleep Quality -- A Potential Link in the Relation Between Occupational Stress an
 
 4.  Scientometric analysis in occupational mental health - Indian scenario
 
+5.  Data management - The first step in Reproducible Research
+
+6.  Point-of-care Hb detection in the lead-exposed
+
 ## 
