@@ -75,7 +75,7 @@ ylim(0,110)+
 :::
 
 
-12. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
+10. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
 
 ```{r}
 #| column: margin
