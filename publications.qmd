@@ -21,7 +21,7 @@ showtext_auto()
 sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
 group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
 absnos <- c(7,6,6,5,2,11,11,11,11,11)
-percent <- c(64,55,55,45,18,100,100,100,100,100)
+percent <- c(71,43,43,36,14,100,100,100,100,100)
 
 library(tidyverse)
 df <- data.frame(group,sub,absnos,percent)
@@ -40,7 +40,7 @@ df %>%
            fontface="bold",
            label=str_glue("{percent}%")
         ))+
-  annotate("text",y=60,x=4.7, label="In 64% of my papers, I have contributed to Data Visualization")+
+  annotate("text",y=60,x=4.7, label="In >70% of my papers, I have contributed to Data Visualization")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1c0;</span>",x=2, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf492;</span>",x=1, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1ec;</span>",x=3, y=105, fill=NA,label.color=NA, size=5, color="#a984a1")+
@@ -50,7 +50,7 @@ df %>%
 ylim(0,110)+
   labs(x="", y="",
        title = "Contributions in my publications",
-       caption = "DataViz by Soundarya | Total Number of Publications =10")+
+       caption = "DataViz by Soundarya | Total Number of Publications =14")+
     coord_flip()+
     theme_classic()+
     theme(legend.position = "none",
@@ -67,13 +67,46 @@ ylim(0,110)+
 
 ## List of Publications
 
-11. Modeling Ability to Resist Alcohol in the Human Laboratory: A Pilot Study [@sloan2022]  
+14. Soundararajan S, Murthy P. High Craving Is Associated with Fewer Abstinent Days and Lesser Time to Relapse During Treatment in Severe Alcohol Use Disorder. Indian Journal of Psychiatry (In Press)
 
+```{r}
+#| column: margin
+#| layout-ncol: 2
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("vial", fill = "#a984a1")
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+13. Viramgami A, Soundararajan S, Sheth A, Upadhyay K. Validity of point-of-care device for diagnosing anemia in workers exposed to lead. Indian Journal of Community Health (In Press)
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+12. Determinants and Economic Consequences of Self Reported Illness Among Indian Construction Workers -- A Multicentre Study. ([Preprint](https://doi.org/10.21203/rs.3.rs-2376123/v1)) [@soundararajan2022]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+11. Modeling Ability to Resist Alcohol in the Human Laboratory: A Pilot Study [@sloan2022]
 
 ::: column-margin
 `r fa("database", fill = "#a984a1")`
 :::
-
 
 10. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
 
