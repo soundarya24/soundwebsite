@@ -16,12 +16,9 @@ title: "People"
 
 ## Past Supervisors
 
-PhD: Dr. Pratima Murthy, Professor and Head of the Department of Psychiatry, NIMHANS, Bangalore, India. 
-Dr. Murthy now serves as the [director of NIMHANS](https://nimhans.ac.in/directors-profile/)
+PhD: Dr. Pratima Murthy, Professor and Head of the Department of Psychiatry, NIMHANS, Bangalore, India. Dr. Murthy now serves as the [director of NIMHANS](https://nimhans.ac.in/directors-profile/)
 
-PostDoc: [Dr. Vijay Ramchandani](https://www.niaaa.nih.gov/about-niaaa/our-staff/vijay-ramchandani-phd), Senior Investigator and Chief, 
-[Laboratory on Human Psychopharmacology (HP)](https://www.niaaa.nih.gov/research/division-intramural-clinical-and-biological-research/laboratory-human-psychopharmacology), [NIAAA](https://www.niaaa.nih.gov),
-[National Institutes of Heallth (NIH)](https://www.nih.gov), Bethesda, USA
+PostDoc: [Dr. Vijay Ramchandani](https://www.niaaa.nih.gov/about-niaaa/our-staff/vijay-ramchandani-phd), Senior Investigator and Chief, [Laboratory on Human Psychopharmacology (HP)](https://www.niaaa.nih.gov/research/division-intramural-clinical-and-biological-research/laboratory-human-psychopharmacology), [NIAAA](https://www.niaaa.nih.gov), [National Institutes of Heallth (NIH)](https://www.nih.gov), Bethesda, USA
 
 ## Past Collaborators
 
@@ -29,16 +26,12 @@ Dr. Sanjeev Jain, Professor of Psychiatry, NIMHANS, Bangalore
 
 Dr. Meera Purushottam, Scientific Officer, Molecular Genetics Laboratory, NIMHANS, Bangalore
 
-Dr. Bethany Stangl, Staff Scientist, [Laboratory on Human Psychopharmacology (HP)](https://www.niaaa.nih.gov/research/division-intramural-clinical-and-biological-research/laboratory-human-psychopharmacology),[NIAAA](https://www.niaaa.nih.gov),
-[National Institutes of Heallth (NIH)](https://www.nih.gov), Bethesda, USA
+Dr. Bethany Stangl, Staff Scientist, [Laboratory on Human Psychopharmacology (HP)](https://www.niaaa.nih.gov/research/division-intramural-clinical-and-biological-research/laboratory-human-psychopharmacology),[NIAAA](https://www.niaaa.nih.gov), [National Institutes of Heallth (NIH)](https://www.nih.gov), Bethesda, USA
 
-[Dr. Hui Sun, MD](https://www.niaaa.nih.gov/about-niaaa/our-staff/hui-sun-md-0), Senior Molecular Biologist, [NIAAA](https://www.niaaa.nih.gov),
-[National Institutes of Heallth (NIH)](https://www.nih.gov), Bethesda, USA
+[Dr. Hui Sun, MD](https://www.niaaa.nih.gov/about-niaaa/our-staff/hui-sun-md-0), Senior Molecular Biologist, [NIAAA](https://www.niaaa.nih.gov), [National Institutes of Heallth (NIH)](https://www.nih.gov), Bethesda, USA
 
 [Dr. Gwenyth R. Wallen, Ph.D.](https://irp.nih.gov/pi/gwenyth-wallen), Senior Investigator, Nursing Department, NIH Clinical Center, [National Institutes of Heallth (NIH)](https://www.nih.gov), Bethesda, USA
 
 Dr. Alyssa Brooks, PhD Scientist, Associate Director, PCORI, University of Maryland, USA
 
 Narjis Kazmi, Research Analyst, NIH, USA
-
-
