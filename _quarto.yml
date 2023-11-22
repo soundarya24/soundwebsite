@@ -17,6 +17,8 @@ website:
         file: projects.qmd
       - text: "Publications"
         file: publications.qmd
+      - text: "Talks"
+        file: talks.qmd
       - text: "Portfolio"
         file: portfolio.qmd
 

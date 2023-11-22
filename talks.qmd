@@ -1,0 +1,29 @@
+---
+title: "Talks"
+---
+
+## Workshops
+
+1.  2023 **Demystifying Descriptive Statistics and Data Visualization in Medical Research** at the 6th National Workshop on "Statistical Methods in Biomedical Research" at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi
+
+2.  2023 **New Age Approaches for Literature Review** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+
+3.  2023 **Tidy data -- Principles and Practice** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+
+4.  2023 **Statistical Tests in Medical Research** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+
+## Invited
+
+1. 2023 **The Doctor’s Prescription for Data Analysis – Why R is a Better Medicine?** on reproducibility and leveraging R for reproducible medical research at the Department of Social and Preventive Medicine, GCS Medical College, Ahmedabad, India on 23rd March 2023.
+
+## Conference
+
+1.  2022 **Perceived morbidity, its risks and catastrophic health expenditure among construction workers – A cross sectional observation from Ahmedabad** at OCCUCON 2022 - 72nd National Conference of Indian Association Of Occupational Health (IAOH), Virtual Conference
+
+2. 2020 **Functional Dopaminergic Variants, Impulsivity and Drinking Behaviors in Non-Dependent Drinkers** at Gordon Research Seminar on Alcohol and the Nervous System - 2020 held at Galveston, Texas, USA.
+
+3. 2015 **Personality Dimensions and Their Association with Treatment Outcome in Alcohol Dependent Patients** at 67th Annual National Conference of the Indian Psychiatric Society, held at Hyderabad, India
+
+4. 2015 **Genetics and Epigenetics of Alcohol Craving** at the World Psychiatric Association Regional Congress (2015), held at Kochi, India
+
+
