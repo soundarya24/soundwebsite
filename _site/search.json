@@ -11,7 +11,7 @@
     "href": "projects.html#secondary-data-projects",
     "title": "My Projects",
     "section": "Secondary data projects",
-    "text": "Secondary data projects\n\nConstruction workers and their perceived morbidities\nAlcohol metabolism genes and alcohol consumption\nDopaminergic genes and alcohol consumption\nScientometric analysis in occupational mental health - Indian scenario\nData management - The first step in Reproducible Research\nPoint-of-care Hb detection in the lead-exposed"
+    "text": "Secondary data projects\n\nConstruction workers and their perceived morbidities - completed\nAlcohol metabolism genes and alcohol consumption\nDopaminergic genes and alcohol consumption\nScientometric analysis in occupational mental health - Indian scenario\nData management - The first step in Reproducible Research - completed\nPoint-of-care Hb detection in the lead-exposed - completed"
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "publications.html#list-of-publications",
     "title": "Publications",
     "section": "List of Publications",
-    "text": "List of Publications\n\nSoundararajan S, Murthy P. High Craving Is Associated with Fewer Abstinent Days and Lesser Time to Relapse During Treatment in Severe Alcohol Use Disorder. Indian Journal of Psychiatry (In Press)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nViramgami A, Soundararajan S, Sheth A, Upadhyay K. Validity of point-of-care device for diagnosing anemia in workers exposed to lead. Indian Journal of Community Health (In Press)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeterminants and Economic Consequences of Self Reported Illness Among Indian Construction Workers – A Multicentre Study. https://doi.org/10.21203/rs.3.rs-2376123/v1 (Preprint) (Soundararajan et al. 2022)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling Ability to Resist Alcohol in the Human Laboratory: A Pilot Study (Sloan et al. 2022)\n\n\n\n\n\nElevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease (Klepp et al. 2022)\n\n\n\n\n\n\n\n\n\n\n\n\nThe Motivation for Alcohol Reward: Predictors of Progressive-Ratio Intravenous Alcohol Self-Administration in Humans (Stangl et al. 2022)\n\n\n\n\n\nFAAH and CNR1 Polymorphisms in the Endocannabinoid System and Alcohol-Related Sleep Quality (Soundararajan, Kazmi, et al. 2021)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChanges in DNA Methylation Persist over Time in Males with Severe Alcohol Use Disorder-a Longitudinal Follow-up Study. (Soundararajan, Agrawal, et al. 2021)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is my PhD publication which had a very long incubation. However, this inspired me to visualize and I created a timeline for publishing this work here\nThis publication gathered media attention as well. The write-up in “The Hindu” - one of the eminent dailies in India can be accessed here\n\nDocosahexaenoic Acid Supplementation in Age-Related Cognitive Decline: A Systematic Review and Meta-Analysis (Balachandar, Soundararajan, and Bagepally 2020)\n\n\n\n\n\n\n\n\n\n\n\n\nRelation Between Age at First Alcohol Drink & Adult Life Drinking Patterns in Alcohol-Dependent Patients (Soundararajan, Narayanan, Agrawal, Prabhakaran, et al. 2017)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI created graphs for this publication with excel back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is here.\n\nPersonality Profile and Short-Term Treatment Outcome in Patients with Alcohol Dependence: A Study from South India (Soundararajan, Narayanan, Agrawal, and Murthy 2017)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManganese- and 1-Methyl-4-Phenylpyridinium-Induced Neurotoxicity Display Differences in Morphological, Electrophysiological and Genome-Wide Alterations: Implications for Idiopathic Parkinson’s Disease (Mythri et al. 2017)\n\n\n\n\n\nVitamin B12 Deficiency: An Important Reversible Co-Morbidity in Neuropsychiatric Manifestations. (Issac et al. 2015)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is my most-cited paper.\nI also visualized how this paper boosted my citation count. View it here\n\nServices for Enhanced Recovery with Intensive and Continued Engagement (SERWICE): An Outpatient Psychiatric Rehabilitation Model from India (Sivakumar et al. 2014)."
+    "text": "List of Publications\n\nSoundararajan S, Viramgami A, Sheth A, Beerappa R, Kalahasthi R, Sampathraju R, Venugopal D, Sarkar K, Balachandar R. Assessing Health Seeking Behaviors and Economic Consequences of Morbidity in Indian Construction Workers: A Multicentre Study. Indian Journal of Occupational and Environmental Medicine. 2023 (In Press)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoundararajan S, Mishra SD. Data Management - The first step in Reproducible Research. Indian Journal of Occupational and Environmental Medicine. 2023 (In Press)\n\n\n\n\n\n\n\n\n\n\n\n\nNeed for workplace smoking cessation program among public transit drivers: Evidence from a cross-sectional study in a metropolitan city of Western India (Soundararajan et al. 2023)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh Craving Is Associated with Fewer Abstinent Days and Lesser Time to Relapse During Treatment in Severe Alcohol Use Disorder (Soundararajan and Murthy 2023)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nValidity of point-of-care device for diagnosing anemia in workers exposed to lead (Viramgami et al. 2022)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nModeling Ability to Resist Alcohol in the Human Laboratory: A Pilot Study (Sloan et al. 2022)\n\n\n\n\n\nElevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease (Klepp et al. 2022)\n\n\n\n\n\n\n\n\n\n\n\n\nThe Motivation for Alcohol Reward: Predictors of Progressive-Ratio Intravenous Alcohol Self-Administration in Humans (Stangl et al. 2022)\n\n\n\n\n\nFAAH and CNR1 Polymorphisms in the Endocannabinoid System and Alcohol-Related Sleep Quality (Soundararajan, Kazmi, et al. 2021)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChanges in DNA Methylation Persist over Time in Males with Severe Alcohol Use Disorder-a Longitudinal Follow-up Study. (Soundararajan, Agrawal, et al. 2021)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is my PhD publication which had a very long incubation. However, this inspired me to visualize and I created a timeline for publishing this work here\nThis publication gathered media attention as well. The write-up in “The Hindu” - one of the eminent dailies in India can be accessed here\n\nDocosahexaenoic Acid Supplementation in Age-Related Cognitive Decline: A Systematic Review and Meta-Analysis (Balachandar, Soundararajan, and Bagepally 2020)\n\n\n\n\n\n\n\n\n\n\n\n\nRelation Between Age at First Alcohol Drink & Adult Life Drinking Patterns in Alcohol-Dependent Patients (Soundararajan, Narayanan, Agrawal, Prabhakaran, et al. 2017)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI created graphs for this publication with excel back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is here.\n\nPersonality Profile and Short-Term Treatment Outcome in Patients with Alcohol Dependence: A Study from South India (Soundararajan, Narayanan, Agrawal, and Murthy 2017)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManganese- and 1-Methyl-4-Phenylpyridinium-Induced Neurotoxicity Display Differences in Morphological, Electrophysiological and Genome-Wide Alterations: Implications for Idiopathic Parkinson’s Disease (Mythri et al. 2017)\n\n\n\n\n\nVitamin B12 Deficiency: An Important Reversible Co-Morbidity in Neuropsychiatric Manifestations. (Issac et al. 2015)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is my most-cited paper.\nI also visualized how this paper boosted my citation count. View it here\n\nServices for Enhanced Recovery with Intensive and Continued Engagement (SERWICE): An Outpatient Psychiatric Rehabilitation Model from India (Sivakumar et al. 2014)."
   },
   {
     "objectID": "about.html",
@@ -88,7 +88,7 @@
     "href": "timeline.html#section-2",
     "title": "Timeline of my education and employment",
     "section": "2018-2020",
-    "text": "2018-2020\n\nNIAAA/NIH | PostDoc | 2018 - 2020\nThis was a particularly notable and enriching experience of my life. As a postdoctoral fellow at the National Institute on Alcohol Abuse and Alcoholism (NIAAA) / National Institutes of Health (NIH), USA from 2018-2020, I worked in the capacity of an Assistant Investigator in the protocols of my section at Human Psychopharmacology, NIAAA/NIH under the supervision of Dr. Vijay Ramchandani, Ph.D. At the lab, we conducted research on human subjects administering intravenous alcohol infusions along with post-baccalaureate candidates in my section. I was involved in writing and conducting protocols, grants, authored manuscripts in a collaborative environment. At the NIH, I was trained at multiple domains, including Responsible Conduct of Research, online technology transfer, data quality management, writing research papers, On becoming a responsible researcher, and also on workplace management. I worked on multiple data projects, maintaining data in a safe and secured manner, involved in developing analysis pipelines for quantitative data analyses. I also mentored post-baccalaureate in data analysis, management and visualization techniques and also writing analysis reports, abstracts for conferences and manuscripts. While doing so, I developed much interest in the concept of “Reproducible Research”. I learnt and strengthened my analytical skills specifically in “R” platform to generate reproducible analyses. This motivated me to be an advocate for Open Science and Reproducible Research."
+    "text": "2018-2020\n\nNIAAA/NIH | PostDoc | 2018 - 2020\nThis was a particularly notable and enriching experience of my life. As a postdoctoral fellow at the National Institute on Alcohol Abuse and Alcoholism (NIAAA) / National Institutes of Health (NIH), USA from 2018-2020, I worked in the capacity of an Assistant Investigator in the protocols of my section at Human Psychopharmacology, NIAAA/NIH under the supervision of Dr. Vijay Ramchandani, Ph.D. At the lab, we conducted research on human subjects administering intravenous alcohol infusions along with post-baccalaureate candidates in my section. I was involved in writing and conducting protocols, grants, authored manuscripts in a collaborative environment. At the NIH, I was trained at multiple domains, including Responsible Conduct of Research, online technology transfer, data quality management, writing research papers, On becoming a responsible researcher, and also on workplace management. I worked on multiple data projects, maintaining data in a safe and secured manner, involved in developing analysis pipelines for quantitative data analyses. I also mentored post-baccalaureate in data analysis, management and visualization techniques and also writing analysis reports, abstracts for conferences and manuscripts. While doing so, I developed much interest in the concept of “Reproducible Research”. I learnt and strengthened my analytical skills specifically in “R” platform to generate reproducible analyses. This motivated me to be an advocate for Open Science and Reproducible Research.\n\n\n\nI also reflected on my NIH journey in this atomic essay."
   },
   {
     "objectID": "timeline.html#section-3",
@@ -103,5 +103,89 @@
     "title": "Timeline of my education and employment",
     "section": "2021 - Present",
     "text": "2021 - Present\n\nICMR-NIOH | Medical Scientist\nCurrently I serve as a medical scientist. As aligned with the institute’s mission, I focus on occupational health, particularly occupational mental health.\n\nMy lifetime vision\n\nTo administer effective workplace interventions to combat occupational stress associated and driven substance use disorders.\nTo be an advocate of Open Science.\n\n\n\nTen year goals\n\nTo develop a comprehensive toolkit for assessing occupational mental health in the Indian context.\nTo understand how occupational stress and associated factors contribute to substance use vulnerability and continuation.\nTo test and develop various workplace interventions to combat occupational stress and substance use problems.\nDevelop human resources and spark interest in responsible and reproducible research"
+  },
+  {
+    "objectID": "people.html#present-collaborators",
+    "href": "people.html#present-collaborators",
+    "title": "People",
+    "section": "",
+    "text": "Dr. Gyanendra Singh, Scientist - C, Biological Sciences Division, ICMR-National Institute of Occupational Health, Ahmedabad, India\nDr Ankit Viramgami, MBBS, MD, Scientist-C, Health Science Division, ICMR-National Institute of Occupational Health, Ahmedabad, India\nDr Sukhdev Mishra, PhD, Scientist-D, Health Science Division, ICMR-National Institute of Occupational Health, Ahmedabad, India\nDr. Rakesh Balachandar, MBBS, PhD, Scientist-D, Health Science Division,ICMR-National Institute of Occupational Health, Ahmedabad, India\nDr. Bhavani Shankara Bagepally, MBBS, PhD, Scientist-E, Non-Communicable Diseases Division, ICMR-National Institute of Epidemiology (NIE), Chennai, Tamil Nadu"
+  },
+  {
+    "objectID": "projects.html#current",
+    "href": "projects.html#current",
+    "title": "My Projects",
+    "section": "",
+    "text": "Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses\nRole: PI"
+  },
+  {
+    "objectID": "projects.html#completed",
+    "href": "projects.html#completed",
+    "title": "My Projects",
+    "section": "",
+    "text": "Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses\nRole: PI"
+  },
+  {
+    "objectID": "projects.html#ongoing",
+    "href": "projects.html#ongoing",
+    "title": "My Projects",
+    "section": "Ongoing",
+    "text": "Ongoing\nEffect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India\nRole: Co-PI\nFunding: ICMR-Extramural"
+  },
+  {
+    "objectID": "projects.html#proposed",
+    "href": "projects.html#proposed",
+    "title": "My Projects",
+    "section": "Proposed",
+    "text": "Proposed\n\nUnderstanding Health Workers’ Quality of Life – A Multidimensional Approach\n\nRole: PI\nFunding: ICMR-Intramural"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "2023 Demystifying Descriptive Statistics and Data Visualization in Medical Research at the 6th National Workshop on “Statistical Methods in Biomedical Research” at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi\n2023 New Age Approaches for Literature Review at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad\n2023 Tidy data – Principles and Practice at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad\n2023 Statistical Tests in Medical Research at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad"
+  },
+  {
+    "objectID": "talks.html#workshop-talks",
+    "href": "talks.html#workshop-talks",
+    "title": "Talks",
+    "section": "",
+    "text": "2023 Demystifying Descriptive Statistics and Data Visualization in Medical Research at the 6th National Workshop on “Statistical Methods in Biomedical Research” at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi\n2023 New Age Approaches for Literature Review at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad\n2023 Tidy data – Principles and Practice at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad\n2023 Statistical Tests in Medical Research at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad"
+  },
+  {
+    "objectID": "talks.html#conference-talks",
+    "href": "talks.html#conference-talks",
+    "title": "Talks",
+    "section": "Conference talks",
+    "text": "Conference talks\n\n2022 Perceived morbidity, its risks and catastrophic health expenditure among construction workers – A cross sectional observation from Ahmedabad at OCCUCON 2022 - 72nd National Conference of Indian Association Of Occupational Health (IAOH), Virtual Conference\n2020 Functional Dopaminergic Variants, Impulsivity and Drinking Behaviors in Non-Dependent Drinkers at Gordon Research Seminar on Alcohol and the Nervous System - 2020 held at Galveston, Texas, USA.\n2015 Personality Dimensions and Their Association with Treatment Outcome in Alcohol Dependent Patients at 67th Annual National Conference of the Indian Psychiatric Society, held at Hyderabad, India\n2015 Genetics and Epigenetics of Alcohol Craving at the World Psychiatric Association Regional Congress (2015), held at Kochi, India"
+  },
+  {
+    "objectID": "talks.html#workshop",
+    "href": "talks.html#workshop",
+    "title": "Talks",
+    "section": "",
+    "text": "2023 Demystifying Descriptive Statistics and Data Visualization in Medical Research at the 6th National Workshop on “Statistical Methods in Biomedical Research” at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi\n2023 New Age Approaches for Literature Review at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad\n2023 Tidy data – Principles and Practice at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad\n2023 Statistical Tests in Medical Research at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad"
+  },
+  {
+    "objectID": "talks.html#conference",
+    "href": "talks.html#conference",
+    "title": "Talks",
+    "section": "Conference",
+    "text": "Conference\n\n2022 Perceived morbidity, its risks and catastrophic health expenditure among construction workers – A cross sectional observation from Ahmedabad at OCCUCON 2022 - 72nd National Conference of Indian Association Of Occupational Health (IAOH), Virtual Conference\n2020 Functional Dopaminergic Variants, Impulsivity and Drinking Behaviors in Non-Dependent Drinkers at Gordon Research Seminar on Alcohol and the Nervous System - 2020 held at Galveston, Texas, USA.\n2015 Personality Dimensions and Their Association with Treatment Outcome in Alcohol Dependent Patients at 67th Annual National Conference of the Indian Psychiatric Society, held at Hyderabad, India\n2015 Genetics and Epigenetics of Alcohol Craving at the World Psychiatric Association Regional Congress (2015), held at Kochi, India"
+  },
+  {
+    "objectID": "talks.html#workshops",
+    "href": "talks.html#workshops",
+    "title": "Talks",
+    "section": "",
+    "text": "2023 Demystifying Descriptive Statistics and Data Visualization in Medical Research at the 6th National Workshop on “Statistical Methods in Biomedical Research” at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi\n2023 New Age Approaches for Literature Review at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad\n2023 Tidy data – Principles and Practice at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad\n2023 Statistical Tests in Medical Research at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad"
+  },
+  {
+    "objectID": "talks.html#invited",
+    "href": "talks.html#invited",
+    "title": "Talks",
+    "section": "Invited",
+    "text": "Invited\n\n2023 The Doctor’s Prescription for Data Analysis – Why R is a Better Medicine? on reproducibility and leveraging R for reproducible medical research at the Department of Social and Preventive Medicine, GCS Medical College, Ahmedabad, India on 23rd March 2023."
   }
 ]
