@@ -103,7 +103,6 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-
 13. High Craving Is Associated with Fewer Abstinent Days and Lesser Time to Relapse During Treatment in Severe Alcohol Use Disorder [@soundararajan2023a]
 
 ```{r}
@@ -127,7 +126,6 @@ fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
-
 
 11. Modeling Ability to Resist Alcohol in the Human Laboratory: A Pilot Study [@sloan2022]
 
@@ -240,5 +238,3 @@ I also visualized how this paper boosted my citation count. View it [here](https
 ::: column-margin
 `r fa("database", fill = "#a984a1")`
 :::
-
-
