@@ -2,15 +2,31 @@
 title: "My Projects"
 ---
 
-## Current
+## Completed
 
 Sleep Quality -- A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses
 
 **Role**: PI
 
+## Ongoing
+
+Effect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India
+
+**Role**: Co-PI
+
+*Funding*: ICMR-Extramural
+
+## Proposed
+
+1.  Understanding Health Workers' Quality of Life -- A Multidimensional Approach
+
+**Role**: PI
+
+*Funding*: ICMR-Intramural
+
 ## Secondary data projects
 
-1.  Construction workers and their perceived morbidities
+1.  Construction workers and their perceived morbidities - completed
 
 2.  Alcohol metabolism genes and alcohol consumption
 
@@ -18,8 +34,6 @@ Sleep Quality -- A Potential Link in the Relation Between Occupational Stress an
 
 4.  Scientometric analysis in occupational mental health - Indian scenario
 
-5.  Data management - The first step in Reproducible Research
+5.  Data management - The first step in Reproducible Research - completed
 
-6.  Point-of-care Hb detection in the lead-exposed
-
-## 
+6.  Point-of-care Hb detection in the lead-exposed - completed
