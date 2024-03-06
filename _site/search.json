@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses\nRole: PI"
+    "text": "Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses\nRole: PI\nFunding: Indian Council of Medical Research-Intramural funding\nIn this pilot work, we delved into the intricate dynamics of how occupational stress impacts sleep quality and inflammation among female nurses. Our motivation stemmed from observing the high stress levels within nursing professions and its potential implications on health including reported suicides. We explored this specifically through disrupted sleep and increased inflammation levels, which are precursors to numerous chronic diseases. This work is currently under review in Scientific Reports- Burnout and Stress Collection.\nMoving forward, we understand the urgent need for interventions focusing on stress management and sleep improvement among nurses. In our future endeavors, we aim to develop and test targeted strategies to mitigate these stress-induced health impacts, potentially transforming workplace wellness programs and policies to better support our healthcare workers’ well-being."
   },
   {
     "objectID": "projects.html#secondary-data-projects",
     "href": "projects.html#secondary-data-projects",
     "title": "My Projects",
     "section": "Secondary data projects",
-    "text": "Secondary data projects\n\nConstruction workers and their perceived morbidities - completed\nAlcohol metabolism genes and alcohol consumption\nDopaminergic genes and alcohol consumption\nScientometric analysis in occupational mental health - Indian scenario\nData management - The first step in Reproducible Research - completed\nPoint-of-care Hb detection in the lead-exposed - completed"
+    "text": "Secondary data projects\n\nConstruction workers and their perceived morbidities - completed\nSD or SEM: A continuing debate - Opinion piece\nScientometric analysis in occupational mental health - Indian scenario\nReproducibility in Occupational Health - Are we lagging behind? - Opinion piece"
   },
   {
     "objectID": "index.html",
@@ -123,21 +123,21 @@
     "href": "projects.html#completed",
     "title": "My Projects",
     "section": "",
-    "text": "Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses\nRole: PI"
+    "text": "Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses\nRole: PI\nFunding: Indian Council of Medical Research-Intramural funding\nIn this pilot work, we delved into the intricate dynamics of how occupational stress impacts sleep quality and inflammation among female nurses. Our motivation stemmed from observing the high stress levels within nursing professions and its potential implications on health including reported suicides. We explored this specifically through disrupted sleep and increased inflammation levels, which are precursors to numerous chronic diseases. This work is currently under review in Scientific Reports- Burnout and Stress Collection.\nMoving forward, we understand the urgent need for interventions focusing on stress management and sleep improvement among nurses. In our future endeavors, we aim to develop and test targeted strategies to mitigate these stress-induced health impacts, potentially transforming workplace wellness programs and policies to better support our healthcare workers’ well-being."
   },
   {
     "objectID": "projects.html#ongoing",
     "href": "projects.html#ongoing",
     "title": "My Projects",
     "section": "Ongoing",
-    "text": "Ongoing\nEffect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India\nRole: Co-PI\nFunding: ICMR-Extramural"
+    "text": "Ongoing\n\nEffectiveness of mindfulness in reducing perceived stress among Nurses: A systematic review and meta- analysis.\n\nRole: PI\nFunding: None\nFollowing our investigation into the impacts of occupational stress on sleep quality and inflammation in nurses, we’ve taken a pivotal next step. We have initiated a systematic review and meta-analysis, in which I have the privilege of guiding as a mentor to an MPH dissertation student.\nWe have registered our protocol in PROSPERO (approval awaited), marking our commitment to transparency and rigor in this exploration. Our goal over the next few months is to delve deep into the existing literature, assessing the effectiveness of mindfulness interventions among nurses. This endeavor is particularly groundbreaking in the Indian context, where mindfulness practices are not as prevalent within healthcare settings.\nAs we forge ahead with this study, our hope is to illuminate the potential of mindfulness in transforming the stress landscape for nurses, fostering environments where they can thrive, not just survive. Stay tuned as we continue this exciting journey towards nurturing the well-being of those at the heart of healthcare.\n\nEffect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India\n\nRole: Co-PI\nFunding: ICMR-Extramural"
   },
   {
     "objectID": "projects.html#proposed",
     "href": "projects.html#proposed",
     "title": "My Projects",
     "section": "Proposed",
-    "text": "Proposed\n\nUnderstanding Health Workers’ Quality of Life – A Multidimensional Approach\n\nRole: PI\nFunding: ICMR-Intramural"
+    "text": "Proposed\nUnderstanding Health Workers’ Quality of Life – A Multidimensional Approach\nRole: PI\nFunding: ICMR-Intramural"
   },
   {
     "objectID": "talks.html",
@@ -187,5 +187,33 @@
     "title": "Talks",
     "section": "Invited",
     "text": "Invited\n\n2023 The Doctor’s Prescription for Data Analysis – Why R is a Better Medicine? on reproducibility and leveraging R for reproducible medical research at the Department of Social and Preventive Medicine, GCS Medical College, Ahmedabad, India on 23rd March 2023."
+  },
+  {
+    "objectID": "projects.html#completed-projects",
+    "href": "projects.html#completed-projects",
+    "title": "My Projects",
+    "section": "",
+    "text": "Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses\nRole: PI\nFunding: Indian Council of Medical Research-Intramural funding\nIn this pilot work, we delved into the intricate dynamics of how occupational stress impacts sleep quality and inflammation among female nurses. Our motivation stemmed from observing the high stress levels within nursing professions and its potential implications on health including reported suicides. We explored this specifically through disrupted sleep and increased inflammation levels, which are precursors to numerous chronic diseases. This work is currently under review in Scientific Reports- Burnout and Stress Collection.\nMoving forward, we understand the urgent need for interventions focusing on stress management and sleep improvement among nurses. In our future endeavors, we aim to develop and test targeted strategies to mitigate these stress-induced health impacts, potentially transforming workplace wellness programs and policies to better support our healthcare workers’ well-being."
+  },
+  {
+    "objectID": "projects.html#ongoing-projects",
+    "href": "projects.html#ongoing-projects",
+    "title": "My Projects",
+    "section": "Ongoing Projects",
+    "text": "Ongoing Projects\n\nEffectiveness of mindfulness in reducing perceived stress among Nurses: A systematic review and meta- analysis.\n\nRole: PI\nFunding: None\nFollowing our investigation into the impacts of occupational stress on sleep quality and inflammation in nurses, we’ve taken a pivotal next step. We have initiated a systematic review and meta-analysis, in which I have the privilege of guiding as a mentor to an MPH dissertation student.\nWe have registered our protocol in PROSPERO (approval awaited), marking our commitment to transparency and rigor in this exploration. Our goal over the next few months is to delve deep into the existing literature, assessing the effectiveness of mindfulness interventions among nurses. This endeavor is particularly groundbreaking in the Indian context, where mindfulness practices are not as prevalent within healthcare settings.\nAs we forge ahead with this study, our hope is to illuminate the potential of mindfulness in transforming the stress landscape for nurses, fostering environments where they can thrive, not just survive. Stay tuned as we continue this exciting journey towards nurturing the well-being of those at the heart of healthcare.\n\nEffect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India\n\nRole: Co-PI\nFunding: ICMR-Extramural"
+  },
+  {
+    "objectID": "projects.html#proposed-projects",
+    "href": "projects.html#proposed-projects",
+    "title": "My Projects",
+    "section": "Proposed Projects",
+    "text": "Proposed Projects\nUnderstanding Health Workers’ Quality of Life – A Multidimensional Approach\nRole: PI\nFunding: ICMR-Intramural"
+  },
+  {
+    "objectID": "projects.html#upcoming-works",
+    "href": "projects.html#upcoming-works",
+    "title": "My Projects",
+    "section": "Upcoming Works",
+    "text": "Upcoming Works\n\nSD or SEM: A continuing debate - Opinion piece\nScientometric analysis in occupational mental health - Indian scenario\nReproducibility in Occupational Health - Are we lagging behind? - Opinion piece"
   }
 ]
