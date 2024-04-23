@@ -20,8 +20,8 @@ font_add(family = "fa-brands", regular = fa_path)
 showtext_auto()
 sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
 group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
-absnos <- c(12,10,11,6,3,16,16,16,16,16)
-percent <- c(75,63,69,38,19,100,100,100,100,100)
+absnos <- c(13,12,11,7,3,17,17,17,17,17)
+percent <- c(76,71,65,41,18,100,100,100,100,100)
 
 library(tidyverse)
 df <- data.frame(group,sub,absnos,percent)
@@ -50,7 +50,7 @@ df %>%
 ylim(0,110)+
   labs(x="", y="",
        title = "Contributions in my publications",
-       caption = "DataViz by Soundarya | Total Number of Publications =16")+
+       caption = "DataViz by Soundarya | Total Number of Publications =17")+
     coord_flip()+
     theme_classic()+
     theme(legend.position = "none",
@@ -71,7 +71,17 @@ ylim(0,110)+
 
 ## List of Publications
 
-16. **Soundararajan S**, Viramgami A, Sheth A, Beerappa R, Kalahasthi R, Sampathraju R, Venugopal D, Sarkar K, Balachandar R. Assessing Health Seeking Behaviors and Economic Consequences of Morbidity in Indian Construction Workers: A Multicentre Study. Indian Journal of Occupational and Environmental Medicine. 2023 (In Press)
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+17. Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation Available from: https://osf.io/65dnw [@singh2024sleepqualitypotentiala]
 
 ```{r}
 #| column: margin
@@ -82,7 +92,7 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-15. **Soundararajan S**, Mishra SD. Data Management - The first step in Reproducible Research. Indian Journal of Occupational and Environmental Medicine. 2023 (In Press)
+16. Assessing Health Seeking Behaviors and Economic Consequences of Morbidity in Indian Construction Workers: A Multicenter Study. [@soundararajan2024]
 
 ```{r}
 #| column: margin
@@ -92,12 +102,25 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-14. Need for workplace smoking cessation program among public transit drivers: Evidence from a cross-sectional study in a metropolitan city of Western India [@soundararajan2023]
+15. Data Management: The First Step in Reproducible Research. [@soundararajan2023datamanagementfirst]
 
 ```{r}
 #| column: margin
 #| layout-nrow: 1
 #| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+14. Need for workplace smoking cessation program among public transit drivers: Evidence from a cross-sectional study in a metropolitan city of Western India [@soundararajan2023]
+
+```{r}
+#| column: margin
+#| layout-nrow: 2
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("vial", fill = "#a984a1")
 fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
@@ -107,10 +130,8 @@ fa("marker", fill = "#a984a1")
 
 ```{r}
 #| column: margin
-#| layout-ncol: 2
+#| layout-nrow: 2
 #| echo: false
-fa("database", fill = "#a984a1")
-fa("vial", fill = "#a984a1")
 fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
@@ -122,16 +143,19 @@ fa("marker", fill = "#a984a1")
 #| column: margin
 #| layout-nrow: 1
 #| echo: false
-fa("calculator", fill = "#a984a1")
-fa("palette", fill = "#a984a1")
-fa("marker", fill = "#a984a1")
+fa("database", fill = "#a984a1")
+
 ```
 
 11. Modeling Ability to Resist Alcohol in the Human Laboratory: A Pilot Study [@sloan2022]
 
-::: column-margin
-`r fa("database", fill = "#a984a1")`
-:::
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+```
 
 10. Elevated Stearoyl-CoA Desaturase 1 Activity Is Associated with Alcohol-Associated Liver Disease [@klepp2022elevatedstearoylcoadesaturase]
 
@@ -139,17 +163,10 @@ fa("marker", fill = "#a984a1")
 #| column: margin
 #| layout-nrow: 1
 #| echo: false
-fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
 ```
 
 9.  The Motivation for Alcohol Reward: Predictors of Progressive-Ratio Intravenous Alcohol Self-Administration in Humans [@au-stangl///motivationalcoholrewarda]
-
-::: column-margin
-`r fa("palette", fill = "#a984a1")`
-:::
-
-8.  FAAH and CNR1 Polymorphisms in the Endocannabinoid System and Alcohol-Related Sleep Quality [@soundararajan2021faahcnr1polymorphisms]
 
 ```{r}
 #| column: margin
@@ -160,11 +177,11 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-7.  Changes in DNA Methylation Persist over Time in Males with Severe Alcohol Use Disorder-a Longitudinal Follow-up Study. [@soundararajan2021changesdnamethylation]
+8.  FAAH and CNR1 Polymorphisms in the Endocannabinoid System and Alcohol-Related Sleep Quality [@soundararajan2021faahcnr1polymorphisms]
 
 ```{r}
 #| column: margin
-#| layout-ncol: 2
+#| layout-nrow: 2
 #| echo: false
 fa("database", fill = "#a984a1")
 fa("vial", fill = "#a984a1")
@@ -173,9 +190,19 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
+7.  Changes in DNA Methylation Persist over Time in Males with Severe Alcohol Use Disorder-a Longitudinal Follow-up Study. [@soundararajan2021changesdnamethylation]
+
 This is my PhD publication which had a very long incubation. However, this inspired me to visualize and I created a timeline for publishing this work [here](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/ThesisTimeline.png)
 
 This publication gathered media attention as well. The write-up in "The Hindu" - one of the eminent dailies in India can be accessed [here](https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece)
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
 
 6.  Docosahexaenoic Acid Supplementation in Age-Related Cognitive Decline: A Systematic Review and Meta-Analysis [@balachandar2020docosahexaenoicacidsupplementation]
 
@@ -183,11 +210,14 @@ This publication gathered media attention as well. The write-up in "The Hindu" -
 #| column: margin
 #| layout-nrow: 1
 #| echo: false
-fa("database", fill = "#a984a1")
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
 5.  Relation Between Age at First Alcohol Drink & Adult Life Drinking Patterns in Alcohol-Dependent Patients [@soundararajan2017relationagefirst]
+
+I created graphs for this publication with excel back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
 
 ```{r}
 #| column: margin
@@ -197,8 +227,6 @@ fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
-
-I created graphs for this publication with excel back in 2015. However, after learning R, I upgraded the visualization for this paper. My twitter link for the same is [here](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=iG_mmXYISfw5J6QBRwZs2A).
 
 4.  Personality Profile and Short-Term Treatment Outcome in Patients with Alcohol Dependence: A Study from South India [@soundararajan2017personalityprofileshortterm]
 
@@ -206,18 +234,10 @@ I created graphs for this publication with excel back in 2015. However, after le
 #| column: margin
 #| layout-nrow: 1
 #| echo: false
-fa("calculator", fill = "#a984a1")
-fa("palette", fill = "#a984a1")
-fa("marker", fill = "#a984a1")
+fa("vial", fill = "#a984a1")
 ```
 
 3.  Manganese- and 1-Methyl-4-Phenylpyridinium-Induced Neurotoxicity Display Differences in Morphological, Electrophysiological and Genome-Wide Alterations: Implications for Idiopathic Parkinson's Disease [@mythri2017manganese1methyl4phenylpyridiniuminducedneurotoxicity]
-
-::: column-margin
-`r fa("vial", fill = "#a984a1")`
-:::
-
-2.  Vitamin B12 Deficiency: An Important Reversible Co-Morbidity in Neuropsychiatric Manifestations. [@issac2015vitaminb12deficiency]
 
 ```{r}
 #| column: margin
@@ -228,6 +248,8 @@ fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
+
+2.  Vitamin B12 Deficiency: An Important Reversible Co-Morbidity in Neuropsychiatric Manifestations. [@issac2015vitaminb12deficiency]
 
 This is my most-cited paper.
 
@@ -238,6 +260,3 @@ I also visualized how this paper boosted my citation count. View it [here](https
 ::: column-margin
 `r fa("database", fill = "#a984a1")`
 :::
-
-![](S.png){fig-align="center" width="250"}
-
