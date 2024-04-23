@@ -238,3 +238,6 @@ I also visualized how this paper boosted my citation count. View it [here](https
 ::: column-margin
 `r fa("database", fill = "#a984a1")`
 :::
+
+![](S.png){fig-align="center" width="250"}
+

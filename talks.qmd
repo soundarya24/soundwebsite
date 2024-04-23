@@ -25,3 +25,5 @@ title: "Talks"
 3.  2015 **Personality Dimensions and Their Association with Treatment Outcome in Alcohol Dependent Patients** at 67th Annual National Conference of the Indian Psychiatric Society, held at Hyderabad, India
 
 4.  2015 **Genetics and Epigenetics of Alcohol Craving** at the World Psychiatric Association Regional Congress (2015), held at Kochi, India
+
+![](S.png){fig-align="center" width="250"}

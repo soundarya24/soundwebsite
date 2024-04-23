@@ -31,3 +31,5 @@ This is a collection of my dataviz works; Click on the images to know the underl
 
 [![](loner.png){fig-align="left" width="9.45in"}](https://twitter.com/SoundaryaRak/status/1309037604097200130/photo/3)
 :::
+
+![](S.png){fig-align="center" width="250"}

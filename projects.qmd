@@ -49,3 +49,5 @@ Understanding Health Workers' Quality of Life -- A Multidimensional Approach
 2.  Scientometric analysis in occupational mental health - Indian scenario
 
 3.  Reproducibility in Occupational Health - Are we lagging behind? - *Opinion piece*
+
+![](S.png){fig-align="center" width="250"}

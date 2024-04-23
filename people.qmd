@@ -34,3 +34,5 @@ PostDoc: [Dr. Vijay Ramchandani](https://www.niaaa.nih.gov/about-niaaa/our-staff
 6.  Dr. Alyssa Brooks, PhD Scientist, Associate Director, PCORI, University of Maryland, USA
 7.  Dr. Narjis Kazmi, Research Analyst, NIH, USA
 8.  Ms. Tejal Padhariya, Head of the Department of Nursing, GCS Medical College, Ahmedabad, India
+
+![](S.png){fig-align="center" width="250"}
