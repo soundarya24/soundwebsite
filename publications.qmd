@@ -20,8 +20,8 @@ font_add(family = "fa-brands", regular = fa_path)
 showtext_auto()
 sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
 group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
-absnos <- c(13,12,11,7,3,17,17,17,17,17)
-percent <- c(76,71,65,41,18,100,100,100,100,100)
+absnos <- c(14,13,12,8,3,18,18,18,18,18)
+percent <- c(78,72,67,44,17,100,100,100,100,100)
 
 library(tidyverse)
 df <- data.frame(group,sub,absnos,percent)
@@ -40,7 +40,7 @@ df %>%
            fontface="bold",
            label=str_glue("{percent}%")
         ))+
-  annotate("text",y=60,x=4.7, size=6,label="In 3 out of my 4 papers, I have contributed to Data Visualization")+
+  annotate("text",y=60,x=4.7, size=6,label="In 8 out of my 10 papers, I have contributed to Data Visualization")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1c0;</span>",x=2, y=-3, fill=NA,label.color=NA, size=8, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf492;</span>",x=1, y=-3, fill=NA,label.color=NA, size=8, color="#a984a1")+
   geom_richtext(label="<span style='font-family:fa-solid;'>&#xf1ec;</span>",x=3, y=-3, fill=NA,label.color=NA, size=8, color="#a984a1")+
@@ -70,6 +70,18 @@ ylim(0,110)+
 ```
 
 ## List of Publications
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("database", fill = "#a984a1")
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+18. Obesity, Oxidative Stress, and the Moderating Role of Overcommitment: An Exploratory Analysis in Female Nurses from Western India. https://doi.org/10.31219/osf.io/2uhkf [@singh2024]
 
 ```{r}
 #| column: margin
