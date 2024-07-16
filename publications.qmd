@@ -50,7 +50,7 @@ df %>%
 ylim(0,110)+
   labs(x="", y="",
        title = "Contributions in my publications",
-       caption = "DataViz by Soundarya | Total Number of Publications =17")+
+       caption = "DataViz by Soundarya | Total Number of Publications =18")+
     coord_flip()+
     theme_classic()+
     theme(legend.position = "none",
