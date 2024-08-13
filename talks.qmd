@@ -4,13 +4,15 @@ title: "Talks"
 
 ## Workshops
 
-1.  2023 **Demystifying Descriptive Statistics and Data Visualization in Medical Research** at the 6th National Workshop on "Statistical Methods in Biomedical Research" at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi
+1.  2024 **Oxidative stress, Inflammation and Mental Health** at the workshop on “Approaches and Methods to Measure Oxidative Stress in Pre-Clinical Mouse Models” at ICMR-NIOH, Ahmedabad
 
-2.  2023 **New Age Approaches for Literature Review** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+2.  2023 **Demystifying Descriptive Statistics and Data Visualization in Medical Research** at the 6th National Workshop on "Statistical Methods in Biomedical Research" at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi
 
-3.  2023 **Tidy data -- Principles and Practice** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+3.  2023 **New Age Approaches for Literature Review** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
 
-4.  2023 **Statistical Tests in Medical Research** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+4.  2023 **Tidy data -- Principles and Practice** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+
+5.  2023 **Statistical Tests in Medical Research** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
 
 ## Invited
 
