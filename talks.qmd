@@ -4,19 +4,21 @@ title: "Talks"
 
 ## Workshops
 
-1.  2024 **Oxidative stress, Inflammation and Mental Health** at the workshop on “Approaches and Methods to Measure Oxidative Stress in Pre-Clinical Mouse Models” at ICMR-NIOH, Ahmedabad
+1.  2024 **Data Visualization – Principles and Practice** at the workshop on “Unlocking Insights: Applied Data Mining and Statistics for Advancing Clinical and Translational Research” at ICMR-NIOH, Ahmedabad
 
-2.  2023 **Demystifying Descriptive Statistics and Data Visualization in Medical Research** at the 6th National Workshop on "Statistical Methods in Biomedical Research" at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi
+2.  2024 **Oxidative stress, Inflammation and Mental Health** at the workshop on “Approaches and Methods to Measure Oxidative Stress in Pre-Clinical Mouse Models” at ICMR-NIOH, Ahmedabad
 
-3.  2023 **New Age Approaches for Literature Review** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+3.  2023 **Demystifying Descriptive Statistics and Data Visualization in Medical Research** at the 6th National Workshop on "Statistical Methods in Biomedical Research" at ICMR-NIOH, Ahmedabad in collaboration with the National Institute of Medical Statistics, New Delhi
 
-4.  2023 **Tidy data -- Principles and Practice** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+4.  2023 **New Age Approaches for Literature Review** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
 
-5.  2023 **Statistical Tests in Medical Research** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+5.  2023 **Tidy data -- Principles and Practice** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
+
+6.  2023 **Statistical Tests in Medical Research** at the Research Methodology Workshop for Medical College Faculty at ICMR-NIOH, Ahmedabad
 
 ## Invited
 
-1.  **2024 “Empowering Research: Navigating the Path to Reproducible Science”** talk on best practices for making research reproducible on the International Women’s Day 2024 at ICMR-NIOH, Ahmedabad; Streamed at <https://www.youtube.com/watch?v=n0fRHFBahf8>
+1.  2024 **Empowering Research: Navigating the Path to Reproducible Science** talk on best practices for making research reproducible on the International Women’s Day 2024 at ICMR-NIOH, Ahmedabad; Streamed at <https://www.youtube.com/watch?v=n0fRHFBahf8>
 
 2.  2023 **The Doctor's Prescription for Data Analysis -- Why R is a Better Medicine?** on reproducibility and leveraging R for reproducible medical research at the Department of Social and Preventive Medicine, GCS Medical College, Ahmedabad, India on 23rd March 2023.
 
