@@ -20,8 +20,8 @@ font_add(family = "fa-brands", regular = fa_path)
 showtext_auto()
 sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
 group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
-absnos <- c(14,13,12,8,3,18,18,18,18,18)
-percent <- c(78,72,67,44,17,100,100,100,100,100)
+absnos <- c(15,14,13,8,3,19,19,19,19,19)
+percent <- c(79,74,68,42,16,100,100,100,100,100)
 
 library(tidyverse)
 df <- data.frame(group,sub,absnos,percent)
@@ -50,7 +50,7 @@ df %>%
 ylim(0,110)+
   labs(x="", y="",
        title = "Contributions in my publications",
-       caption = "DataViz by Soundarya | Total Number of Publications =18")+
+       caption = "DataViz by Soundarya | Total Number of Publications =19")+
     coord_flip()+
     theme_classic()+
     theme(legend.position = "none",
@@ -70,6 +70,18 @@ ylim(0,110)+
 ```
 
 ## List of Publications
+
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
+fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+19. Survival analysis shows tuberculosis patients with silicosis experience earlier mortality and need employer-led care models in occupational settings in India [@RupaniSurvivalanalysis2024].
 
 ```{r}
 #| column: margin
