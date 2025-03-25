@@ -2,7 +2,7 @@
 title: "Timeline of my education and employment"
 ---
 
-![Created with BioRender.com](timeline.png){fig-align="center"}
+![Created with BioRender.com](timeline.png){style="box-shadow: 0 4px 8px rgba(0,0,0,0.15); border-radius: 8px;" fig-align="center"}
 
 ## 2003-2010
 
@@ -22,7 +22,7 @@ As a PhD student (ICMR MD-PHD fellowship) under the supervision of Dr. Pratima M
 
 This was a particularly notable and enriching experience of my life. As a postdoctoral fellow at the National Institute on Alcohol Abuse and Alcoholism (NIAAA) / National Institutes of Health (NIH), USA from 2018-2020, I worked in the capacity of an Assistant Investigator in the protocols of my section at Human Psychopharmacology, NIAAA/NIH under the supervision of Dr. Vijay Ramchandani, Ph.D. At the lab, we conducted research on human subjects administering intravenous alcohol infusions along with post-baccalaureate candidates in my section. I was involved in writing and conducting protocols, grants, authored manuscripts in a collaborative environment. At the NIH, I was trained at multiple domains, including Responsible Conduct of Research, online technology transfer, data quality management, writing research papers, On becoming a responsible researcher, and also on workplace management. I worked on multiple data projects, maintaining data in a safe and secured manner, involved in developing analysis pipelines for quantitative data analyses. I also mentored post-baccalaureate in data analysis, management and visualization techniques and also writing analysis reports, abstracts for conferences and manuscripts. While doing so, I developed much interest in the concept of "Reproducible Research". I learnt and strengthened my analytical skills specifically in "R" platform to generate reproducible analyses. This motivated me to be an advocate for Open Science and Reproducible Research.
 
-![I also reflected on my NIH journey in this atomic essay.](Echoes_of_NIH.jpeg){fig-align="center"}
+![I also reflected on my NIH journey in this atomic essay.](Echoes_of_NIH.jpeg){style="box-shadow: 0 4px 8px rgba(0,0,0,0.15); border-radius: 8px;" fig-align="center"}
 
 ## 2020-2021
 
