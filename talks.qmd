@@ -24,14 +24,23 @@ title: "Talks"
 
 ## Conference
 
-1.  2024 **Cold days and Cardiovascular mortality in Gujarat: A 30-year Time Trend Secondary Data Analysis** at the 51^st^ Annual National Conference of Indian Association of Preventive and Social Medicine IAPSMCON-2024 held at Mangalore, India
+1. 2025 **Overall Cardiovascular Disease Burden Attributable to Temperature Change in India: Explorative Study During Previous Decade** at
+CliCON OEH 2025 – Indo-US Conference, Ahmedabad, India
 
-2.  2022 **Perceived morbidity, its risks and catastrophic health expenditure among construction workers -- A cross sectional observation from Ahmedabad** at OCCUCON 2022 - 72nd National Conference of Indian Association Of Occupational Health (IAOH), Virtual Conference
+2. 2025 **Potential Cardiovascular Disease Burden Among Workers Exposed to Extreme Heat Index – Inference from Population Data** at
+OCCUCON 2025 – 75th National Conference of Indian Association of Occupational Health (IAOH), Chennai, India
 
-3.  2020 **Functional Dopaminergic Variants, Impulsivity and Drinking Behaviors in Non-Dependent Drinkers** at Gordon Research Seminar on Alcohol and the Nervous System - 2020 held at Galveston, Texas, USA.
+3. 2025 **Potential Cardiovascular Disease Burden Among Workers Exposed to Extreme Relative Humidity – Inference from Population Data** at
+OCCUCON 2025 – 75th National Conference of Indian Association of Occupational Health (IAOH), Chennai, India
 
-4.  2015 **Personality Dimensions and Their Association with Treatment Outcome in Alcohol Dependent Patients** at 67th Annual National Conference of the Indian Psychiatric Society, held at Hyderabad, India
+4.  2024 **Cold days and Cardiovascular mortality in Gujarat: A 30-year Time Trend Secondary Data Analysis** at the 51^st^ Annual National Conference of Indian Association of Preventive and Social Medicine IAPSMCON-2024 held at Mangalore, India
 
-5.  2015 **Genetics and Epigenetics of Alcohol Craving** at the World Psychiatric Association Regional Congress (2015), held at Kochi, India
+5.  2022 **Perceived morbidity, its risks and catastrophic health expenditure among construction workers -- A cross sectional observation from Ahmedabad** at OCCUCON 2022 - 72nd National Conference of Indian Association Of Occupational Health (IAOH), Virtual Conference
+
+6.  2020 **Functional Dopaminergic Variants, Impulsivity and Drinking Behaviors in Non-Dependent Drinkers** at Gordon Research Seminar on Alcohol and the Nervous System - 2020 held at Galveston, Texas, USA.
+
+7.  2015 **Personality Dimensions and Their Association with Treatment Outcome in Alcohol Dependent Patients** at 67th Annual National Conference of the Indian Psychiatric Society, held at Hyderabad, India
+
+8.  2015 **Genetics and Epigenetics of Alcohol Craving** at the World Psychiatric Association Regional Congress (2015), held at Kochi, India
 
 ![](S.png){fig-align="center" width="250"}
