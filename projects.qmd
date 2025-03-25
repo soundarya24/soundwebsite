@@ -38,18 +38,18 @@ This study shed light on how mindfulness can help ease the stress nurses face, o
 
 ## Proposed Projects
 
-Understanding Health Workers' Quality of Life -- A Multidimensional Approach
+Assessing Kidney Injury Trends and Economic Consequences of Climate Change on Workers in India
 
 **Role**: PI
 
 *Funding*: ICMR-Intramural
 
-## Upcoming Works
+## In Development
 
-1.  SD or SEM: A continuing debate - *Opinion piece*
+1.  Long Working Hours: Productivity’s Friend or a Health Burden? - *Opinion piece*
 
-2.  Scientometric analysis in occupational mental health - Indian scenario
+2.  Reproducibility Can Help You Learn R Better and Faster - *Book manuscript*
 
-3.  Reproducibility in Occupational Health - Are we lagging behind? - *Opinion piece*
+3.  R and Reproducibility: A Non-Programmer’s Paradise - *Workshop in preparation*
 
 ![](S.png){fig-align="center" width="250"}
