@@ -50,7 +50,7 @@ df %>%
 ylim(0,110)+
   labs(x="", y="",
        title = "Contributions in my publications",
-       caption = "DataViz by Soundarya | Total Number of Publications =21")+
+       caption = "DataViz by Soundarya | Total Number of Publications = 21")+
     coord_flip()+
     theme_classic()+
     theme(legend.position = "none",
@@ -80,7 +80,7 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-21. Modelling the Relationship Between Extreme Temperature Metrics and Cardiovascular Disease Burden in India: Insights from a Multi-State Study on Climate Change Challenges for 2011 -2019 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140985)[@SoundararajanModellingRelationship2024]
+21. Modelling the Relationship Between Extreme Temperature Metrics and Cardiovascular Disease Burden in India: Insights from a Multi-State Study on Climate Change Challenges for 2011-2019. [@SoundararajanModellingRelationship2025]
 
 ```{r}
 #| column: margin
