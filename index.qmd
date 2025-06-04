@@ -5,8 +5,8 @@ about:
   image-shape: round
   image: hello.png  
   links:
-    - icon: twitter 
-      href: https://twitter.com/SoundaryaRak
+    - icon: linkedin
+      href: https://www.linkedin.com/in/soundaryasoundararajan/
     - icon: github
       href: https://github.com/soundarya24
     - icon: vector-pen
