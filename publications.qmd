@@ -20,8 +20,8 @@ font_add(family = "fa-brands", regular = fa_path)
 showtext_auto()
 sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
 group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
-absnos <- c(17,16,15,8,3,21,21,21,21,21)
-percent <- c(81,76,71,38,14,100,100,100,100,100)
+absnos <- c(17,16,15,9,3,21,21,21,21,21)
+percent <- c(81,76,71,43,14,100,100,100,100,100)
 
 library(tidyverse)
 df <- data.frame(group,sub,absnos,percent)
@@ -126,12 +126,13 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
-17. Sleep Quality – A Potential Link in the Relation Between Occupational Stress and Inflammation Available from: https://osf.io/65dnw [@singh2024sleepqualitypotentiala]
+17. Effort-reward imbalance, subjective sleep quality, and inflammation in female nurses at a tertiary hospital: a pilot study. [@singh2024sleepqualitypotentiala]
 
 ```{r}
 #| column: margin
 #| layout-nrow: 1
 #| echo: false
+fa("database", fill = "#a984a1")
 fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
