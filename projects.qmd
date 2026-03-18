@@ -10,7 +10,7 @@ title: "My Projects"
 
 *Funding*: Indian Council of Medical Research-Intramural funding
 
-In this pilot work, we delved into the intricate dynamics of how occupational stress impacts sleep quality and inflammation among female nurses. Our motivation stemmed from observing the high stress levels within nursing professions and its potential implications on health including reported suicides. We explored this specifically through disrupted sleep and increased inflammation levels, which are precursors to numerous chronic diseases. This work is currently under review in *Scientific Reports- Burnout and Stress Collection*.
+In this pilot work, we delved into the intricate dynamics of how occupational stress impacts sleep quality and inflammation among female nurses. Our motivation stemmed from observing the high stress levels within nursing professions and its potential implications on health including reported suicides. We explored this specifically through disrupted sleep and increased inflammation levels, which are precursors to numerous chronic diseases. This work has been published in *Scientific Reports* (2025).
 
 Moving forward, we understand the urgent need for interventions focusing on stress management and sleep improvement among nurses. In our future endeavors, we aim to develop and test targeted strategies to mitigate these stress-induced health impacts, potentially transforming workplace wellness programs and policies to better support our healthcare workers' well-being.
 
@@ -28,21 +28,25 @@ We registered our protocol in PROSPERO ([Access record here](https://www.crd.yor
 This study shed light on how mindfulness can help ease the stress nurses face, offering practical ways to create workplaces where they can truly thrive, not just get by. It was a fulfilling effort that adds meaningful insights to support the well-being of the people who are the backbone of healthcare.
 
 
-## Ongoing Projects
-
-1.  **Effect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India**
+3. **Effect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India**
 
 **Role**: Co-PI
 
 *Funding*: ICMR-Extramural
 
-## Proposed Projects
+## Ongoing Projects
 
-Assessing Kidney Injury Trends and Economic Consequences of Climate Change on Workers in India
+1.  **Assessing Kidney Injury Trends and Economic Consequences of Climate Change on Workers in India**
 
 **Role**: PI
 
 *Funding*: ICMR-Intramural
+
+2. **Multidimensional Quality of Life of Health Care Workers**
+
+**Role**: PI
+
+*Funding*: ICMR – Ignition Grant
 
 ## In Development
 

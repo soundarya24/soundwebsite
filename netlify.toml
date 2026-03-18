@@ -1,0 +1,6 @@
+[build]
+  command = "wget -qO quarto.deb https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.42/quarto-1.6.42-linux-amd64.deb && dpkg -x quarto.deb . && export PATH=$PATH:$(pwd)/opt/quarto/bin && quarto render"
+  publish = "_site"
+
+[build.environment]
+  QUARTO_DENO_EXTRA_OPTIONS = "--allow-all"
