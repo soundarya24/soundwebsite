@@ -20,8 +20,8 @@ font_add(family = "fa-brands", regular = fa_path)
 showtext_auto()
 sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
 group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
-absnos <- c(17,16,15,9,3,21,21,21,21,21)
-percent <- c(81,76,71,43,14,100,100,100,100,100)
+absnos <- c(18,16,16,9,3,22,22,22,22,22)
+percent <- c(82,73,73,41,14,100,100,100,100,100)
 
 library(tidyverse)
 df <- data.frame(group,sub,absnos,percent)
@@ -50,7 +50,7 @@ df %>%
 ylim(0,110)+
   labs(x="", y="",
        title = "Contributions in my publications",
-       caption = "DataViz by Soundarya | Total Number of Publications = 21")+
+       caption = "DataViz by Soundarya | Total Number of Publications = 22")+
     coord_flip()+
     theme_classic()+
     theme(legend.position = "none",
@@ -76,6 +76,16 @@ ylim(0,110)+
 #| layout-nrow: 1
 #| echo: false
 fa("calculator", fill = "#a984a1")
+fa("palette", fill = "#a984a1")
+fa("marker", fill = "#a984a1")
+```
+
+22. Reproducibility and Objectivity in Academic Research with R. [@soundararajan2025reproducibilityR]
+
+```{r}
+#| column: margin
+#| layout-nrow: 1
+#| echo: false
 fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
