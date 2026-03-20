@@ -4,7 +4,7 @@ title: "My Projects"
 
 ## Completed Projects
 
-1. **Sleep Quality -- A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses**
+1.  **Sleep Quality -- A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses**
 
 **Role**: PI
 
@@ -14,8 +14,7 @@ In this pilot work, we delved into the intricate dynamics of how occupational st
 
 Moving forward, we understand the urgent need for interventions focusing on stress management and sleep improvement among nurses. In our future endeavors, we aim to develop and test targeted strategies to mitigate these stress-induced health impacts, potentially transforming workplace wellness programs and policies to better support our healthcare workers' well-being.
 
-
-2. **Effectiveness of mindfulness in reducing perceived stress among Nurses: A systematic review and meta- analysis.**
+2.  **Effectiveness of mindfulness in reducing perceived stress among Nurses: A systematic review and meta- analysis.**
 
 **Role**: PI
 
@@ -27,8 +26,7 @@ We registered our protocol in PROSPERO ([Access record here](https://www.crd.yor
 
 This study shed light on how mindfulness can help ease the stress nurses face, offering practical ways to create workplaces where they can truly thrive, not just get by. It was a fulfilling effort that adds meaningful insights to support the well-being of the people who are the backbone of healthcare.
 
-
-3. **Effect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India**
+3.  **Effect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India**
 
 **Role**: Co-PI
 
@@ -42,7 +40,7 @@ This study shed light on how mindfulness can help ease the stress nurses face, o
 
 *Funding*: ICMR-Intramural
 
-2. **Multidimensional Quality of Life of Health Care Workers**
+2.  **Multidimensional Quality of Life of Health Care Workers**
 
 **Role**: PI
 
