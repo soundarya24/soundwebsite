@@ -1,0 +1,54 @@
+---
+title: "My Portfolio"
+---
+
+## Reflections on Reproducibility
+
+This section features my public reflections on reproducibility, originally shared via LinkedIn. These posts distill key insights from my practice, aiming to bridge methodological rigor with day-to-day research realities.
+
+1.  [What Are the Benefits of Reproducibility?](https://www.linkedin.com/pulse/what-benefits-reproducibility-soundarya-soundararajan-iau5f){style="color: midnightblue;"}
+2.  [Thinking of People Along the R and Reproducibility Spectrum](https://www.linkedin.com/pulse/thinking-people-along-r-reproducibility-spectrum-soundararajan-to1vf){style="color: midnightblue;"}
+3.  [Writing a README File for a Reproducible Setup](https://www.linkedin.com/posts/soundaryasoundararajan_writing-a-readme-file-for-a-reproducible-activity-7330359100968472577-HyaS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZ0VWIBtsgdBz2-l5BQzuAZrBEZJDDUwvE){style="color: midnightblue;"}
+4.  [One Creative Move for Reproducible Documentation](https://www.linkedin.com/pulse/one-creative-move-reproducible-documentation-your-you-soundararajan-nyezf){style="color: midnightblue;"}
+5.  [A Reproducible Setup Made It Easier To Revise And Resubmit](https://www.linkedin.com/posts/soundaryasoundararajan_a-reproducible-setup-made-it-easier-to-revise-activity-7330226988999241729-4Gpn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZ0VWIBtsgdBz2-l5BQzuAZrBEZJDDUwvE){style="color: midnightblue;"}
+6.  [A Snapshot Into Starting With Reproducibility In Mind](https://www.linkedin.com/posts/soundaryasoundararajan_a-snapshot-into-starting-with-reproducibility-activity-7330165389861040128-xuiQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZ0VWIBtsgdBz2-l5BQzuAZrBEZJDDUwvE){style="color: midnightblue;"}
+7.  [Will Reproducibility Require Me To Share My Data](https://www.linkedin.com/pulse/reproducibility-require-me-share-my-data-soundarya-soundararajan-go9vf){style="color: midnightblue;"}
+8.  [Reproducibility is a verb](https://www.linkedin.com/pulse/reproducibility-verb-soundarya-soundararajan-gdmqf){style="color: midnightblue;"}
+9.  [What Is a Reproducible Setup](https://www.linkedin.com/pulse/what-reproducible-setup-soundarya-soundararajan-zncmf){style="color: midnightblue;"}
+10. [Same Input Same Steps Same Results Same Soup](https://www.linkedin.com/pulse/same-soup-every-single-time-soundarya-soundararajan-h5p3f){style="color: midnightblue;"}
+11. [Systems Over Goals](https://www.linkedin.com/posts/soundaryasoundararajan_i-love-customizing-my-system-my-needs-are-activity-7325452829672804353-Q0UC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZ0VWIBtsgdBz2-l5BQzuAZrBEZJDDUwvE){style="color: midnightblue;"}
+12. [Reproducibility = Solving the Rubik’s Cube Again](https://www.linkedin.com/pulse/reproducibility-solving-rubiks-cube-again-soundarya-soundararajan-mfpff){style="color: midnightblue;"}
+
+## Data Visualization Gallery
+
+This is a collection of my dataviz works; Click on the images to know the underlying codes.
+
+::: {#portfolio layout-ncol="3"}
+[![](windTurbines.png){fig-align="left" width="9.45in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w44_CanadianWindTurbines/RaincloudPlots_windTurbines.R)
+
+[![](Himalayas.png){fig-align="right" width="9.45in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w39_HimalayanClimbers/Himalayas.R)
+
+[![](Heatmap_friends_views.png){fig-align="left" width="8in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w37_friends/Heatmap_friends_views.R)
+
+[![](DuboisChallenge_areachart.png){fig-align="right" width="7.78in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/2021_w8_DuboisChallenge/Dubois_challenge.R)
+
+[![](trainlines_twitter.png){fig-align="left" width="9.45in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/2021_w2_traintransits/traintransit_dumbbell_twitter.R)
+
+[![](ThesisTimeline.png){fig-align="right" width="9.45in"}](https://github.com/soundarya24/MyRSpace/blob/main/My%20Thesis%20Manuscript%20Timeline/thesistimeline_github.Rmd)
+
+[![](maldives.jpeg){fig-align="left" width="9.45in"}](https://twitter.com/SoundaryaRak/status/1528987670512553984?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
+
+[![](afd.jpeg){fig-align="center" width="7.5in"}](https://twitter.com/SoundaryaRak/status/1529423882821595136?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
+
+[![](acwri.png){fig-align="right" width="7.45in"}](https://twitter.com/SoundaryaRak/status/1459124741537611783?s=20&t=-OlbuVRo5v3Qt4Aq_7EpsA)
+
+[![](wordcloud.jpeg){fig-align="left" width="9.45in"}](https://twitter.com/SoundaryaRak/status/1369508582232748035/photo/2)
+
+[![](calendar.jpeg){width="9.45in"}](https://github.com/soundarya24/MyRSpace/blob/main/MyCalendar2021/my2021_calendar_github.R)
+
+[![](sankey.jpeg){width="9.45in"}](https://github.com/soundarya24/MyTidyTuesday/blob/master/w51_ninjawarrior/ninjawarrior_alluvial.R)
+
+[![](loner.png){fig-align="left" width="9.45in"}](https://twitter.com/SoundaryaRak/status/1309037604097200130/photo/3)
+:::
+
+![](S.png){fig-align="center" width="250"}

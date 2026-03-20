@@ -1,0 +1,25 @@
+---
+title: "Soundarya Soundararajan"
+about:
+  template: jolla
+  image-shape: round
+  image: hello.png  
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/soundaryasoundararajan/
+    - icon: github
+      href: https://github.com/soundarya24
+    - icon: vector-pen
+      href: https://ss-myrspace.netlify.app/
+    - icon: newspaper
+      href: https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece
+---
+
+I am a Double Doc (Medicine & Ph.D.) living in Bangalore, India.  
+I currently serve as a Medical Scientist at the Regional Occupational Health Centre under the ICMR - National Institute of Occupational Health.   
+ICMR (Indian Council of Medical Research) is an apex body for medical research in India.
+
+![](S.png){fig-align="center" width="250"}
+
+
+*Last updated: June 2025*
