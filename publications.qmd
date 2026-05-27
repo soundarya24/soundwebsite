@@ -20,8 +20,13 @@ font_add(family = "fa-brands", regular = fa_path)
 showtext_auto()
 sub <- c("Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works", "Data Viz", "Data Analysis", "Writing","Data Collection", "Laboratory Works")
 group <- c("nos","nos","nos","nos","nos","papers","papers","papers","papers","papers")
+<<<<<<< HEAD
 absnos <- c(18,16,17,9,3,23,23,23,23,23)
 percent <- c(78,70,74,39,13,100,100,100,100,100)
+=======
+absnos <- c(18,16,16,9,3,22,22,22,22,22)
+percent <- c(82,73,73,41,14,100,100,100,100,100)
+>>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
 
 library(tidyverse)
 df <- data.frame(group,sub,absnos,percent)
@@ -71,6 +76,7 @@ ylim(0,110)+
 
 ## List of Publications
 
+<<<<<<< HEAD
 
 23. The wisdom in mistakes [@Soundararajanwisdommistakes2026]
 
@@ -78,6 +84,8 @@ ylim(0,110)+
 `r fa("marker", fill = "#a984a1")`
 :::
 
+=======
+>>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
 ```{r}
 #| column: margin
 #| layout-nrow: 1
@@ -87,10 +95,13 @@ fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
 22. Reproducibility and Objectivity in Academic Research with R. [@soundararajan2025reproducibilityR]
 
 ```{r}

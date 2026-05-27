@@ -7,4 +7,7 @@
 .Rdata
 .httr-oauth
 .DS_Store
+<<<<<<< HEAD
 .quarto
+=======
+>>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
