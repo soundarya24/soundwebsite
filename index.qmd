@@ -15,20 +15,18 @@ about:
       href: https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece
 ---
 
-<<<<<<< HEAD
+
 I am a Double Doc (Medicine & Ph.D.) living in Bangalore, India.\
 I currently serve as a Medical Scientist at the Regional Occupational Health Centre under the ICMR - National Institute of Occupational Health.\
-=======
+
 I am a Double Doc (Medicine & Ph.D.) living in Bangalore, India.  
 I currently serve as a Medical Scientist at the Regional Occupational Health Centre under the ICMR - National Institute of Occupational Health.   
->>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
+
 ICMR (Indian Council of Medical Research) is an apex body for medical research in India.
 
 ![](S.png){fig-align="center" width="250"}
 
-<<<<<<< HEAD
-*Last updated: March 2026*
-=======
 
-*Last updated: June 2025*
->>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
+*Last updated: August 2026*
+
+
