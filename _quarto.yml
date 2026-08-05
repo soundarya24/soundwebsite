@@ -27,7 +27,7 @@ format:
   html:
     monobackgroundcolor: "#a984a1"
     backgroundcolor: "#EADDCA"
-    linkcolor: "#84A98C"
+    linkcolor: "#191970"
     fontcolor: "#152235"
     css: styles.css
 twitter-card:
