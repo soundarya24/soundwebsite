@@ -5,6 +5,9 @@ about:
   image-shape: round
   image: hello.png  
   links:
+    - icon: google scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=9ClsbTIAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/soundaryasoundararajan/
