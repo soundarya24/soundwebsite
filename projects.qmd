@@ -2,13 +2,30 @@
 title: "My Projects"
 ---
 
+
+## Ongoing Projects
+
+1.  2025-2028 **Assessing Kidney Injury Trends and Economic Consequences of Climate Change on Workers in India** 
+
+**Role**: PI
+
+*Funding*: ICMR-Intramural
+
+
+2. 2026-2029 **Multidimensional Quality of Life of Health Care Workers** 
+
+
+**Role**: PI
+
+*Funding*: ICMR – Ignition Grant
+
 ## Completed Projects
 
-<<<<<<< HEAD
-1.  **Sleep Quality -- A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses**
-=======
+
+
+
 1. **Sleep Quality -- A Potential Link in the Relation Between Occupational Stress and Inflammation: A pilot study in female nurses**
->>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
+
 
 **Role**: PI
 
@@ -18,12 +35,9 @@ In this pilot work, we delved into the intricate dynamics of how occupational st
 
 Moving forward, we understand the urgent need for interventions focusing on stress management and sleep improvement among nurses. In our future endeavors, we aim to develop and test targeted strategies to mitigate these stress-induced health impacts, potentially transforming workplace wellness programs and policies to better support our healthcare workers' well-being.
 
-<<<<<<< HEAD
-2.  **Effectiveness of mindfulness in reducing perceived stress among Nurses: A systematic review and meta- analysis.**
-=======
 
-2. **Effectiveness of mindfulness in reducing perceived stress among Nurses: A systematic review and meta- analysis.**
->>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
+2.  **Effectiveness of mindfulness in reducing perceived stress among Nurses: A systematic review and meta- analysis.**
+
 
 **Role**: PI
 
@@ -35,34 +49,15 @@ We registered our protocol in PROSPERO ([Access record here](https://www.crd.yor
 
 This study shed light on how mindfulness can help ease the stress nurses face, offering practical ways to create workplaces where they can truly thrive, not just get by. It was a fulfilling effort that adds meaningful insights to support the well-being of the people who are the backbone of healthcare.
 
-<<<<<<< HEAD
-3.  **Effect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India**
-=======
 
-3. **Effect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India**
->>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
+3.  **Effect of Climate change on cardiovascular disease and its economic impacts: Health Economics study in India**
+
 
 **Role**: Co-PI
 
 *Funding*: ICMR-Extramural
 
-## Ongoing Projects
 
-1.  **Assessing Kidney Injury Trends and Economic Consequences of Climate Change on Workers in India**
-
-**Role**: PI
-
-*Funding*: ICMR-Intramural
-
-<<<<<<< HEAD
-2.  **Multidimensional Quality of Life of Health Care Workers**
-=======
-2. **Multidimensional Quality of Life of Health Care Workers**
->>>>>>> b2f39372d28d3a4ce99043a2a27c5644dc2e5ea8
-
-**Role**: PI
-
-*Funding*: ICMR – Ignition Grant
 
 ## In Development
 
