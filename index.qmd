@@ -20,9 +20,6 @@ about:
     - icon: vector-pen
       text: My Reproducibility Blog
       href: https://sound-reproducible-r.netlify.app/
-    - icon: newspaper
-      text: My PhD Thesis in the dailies
-      href: https://www.thehindu.com/news/national/karnataka/excess-alcohol-intake-can-irreversibly-change-dna-nimhans-study/article33826963.ece
 ---
 
 I am a Double Doc (Medicine & Ph.D.) living in Bangalore, India.\
