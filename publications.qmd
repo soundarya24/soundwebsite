@@ -82,19 +82,13 @@ fa("marker", fill = "#a984a1")
 
 24. Soundararajan S, Muthu V. Creating Understandable and Accessible Data Visualizations in R. J Postgrad Med Edu Res 2026 [Online ahead of print](https://www.jpmer.com/journal/aop/JPMER/1)
 
-
 =======================================================
-
-
-
 
 23. The wisdom in mistakes - [A Science Career Article](https://www.science.org/careers/articles) [@Soundararajanwisdommistakes2026]
 
 ::: column-margin
 `r fa("marker", fill = "#a984a1")`
 :::
-
-
 
 ```{r}
 #| column: margin
@@ -104,8 +98,6 @@ fa("calculator", fill = "#a984a1")
 fa("palette", fill = "#a984a1")
 fa("marker", fill = "#a984a1")
 ```
-
-
 
 22. Reproducibility and Objectivity in Academic Research with R. [@soundararajan2025reproducibilityR]
 
