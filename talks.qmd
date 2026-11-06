@@ -20,7 +20,7 @@ title: "Talks"
 
 7. 2024 **Empowering Research: Navigating the Path to Reproducible Science** talk on best practices for making research reproducible on the International Women’s Day 2024 at ICMR-NIOH, Ahmedabad; Streamed at <https://www.youtube.com/watch?v=n0fRHFBahf8>
 
-8g.  2023 **The Doctor's Prescription for Data Analysis -- Why R is a Better Medicine?** on reproducibility and leveraging R for reproducible medical research at the Department of Social and Preventive Medicine, GCS Medical College, Ahmedabad, India on 23rd March 2023.
+8.  2023 **The Doctor's Prescription for Data Analysis -- Why R is a Better Medicine?** on reproducibility and leveraging R for reproducible medical research at the Department of Social and Preventive Medicine, GCS Medical College, Ahmedabad, India on 23rd March 2023.
 
 ## Workshops
 
